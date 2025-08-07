@@ -1,5 +1,7 @@
 {
   "name": "turbotodo",
+  "version": "0.0.1",
+  "description": "A simple todo fullstack app",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -13,7 +15,7 @@
     "turbo": "^2.5.5",
     "typescript": "5.8.3"
   },
-  "packageManager": "pnpm@9.0.0",
+  "packageManager": "pnpm@10.11.0",
   "engines": {
     "node": ">=18"
   }
