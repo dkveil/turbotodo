@@ -1,0 +1,9 @@
+{
+  "name": "@repo/trpc",
+  "version": "0.0.0",
+  "private": true,
+  "peerDependencies": {
+    "zod": "^4.0.15",
+    "@trpc/server": "^11.4.4"
+  }
+}
