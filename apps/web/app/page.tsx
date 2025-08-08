@@ -7,8 +7,6 @@ export default function Home() {
 
   if (isLoading) return <div>Loading...</div>;
 
-  console.log(data);
-
   return (
     <>
       {data?.map((todo: any) => (
